@@ -159,6 +159,74 @@
     {
       "url": "https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/",
       "processed_at": "2026-05-27T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/zorro-enterprise-rl-training/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/enterprise-text-to-sql-arctic-r2/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/announcing-the-data-commons-gemini-cli-extension/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/from-research-to-production-introducing-the-jax-ai-stack/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/jules-gemini-3/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/introducing-chronos-2/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/data-pipline-for-physical-ai1/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/engineers-netflix-pagerduty-slack",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/how-apps-for-slack-help-ibm-and-hearst-get-more-from-their-tech-stack",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/skyscanner-engineers-find-answers-faster",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/",
+      "processed_at": "2026-05-27T20:14:45Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/",
+      "processed_at": "2026-05-27T20:14:45Z"
     }
   ]
 }
