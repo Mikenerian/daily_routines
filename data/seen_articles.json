@@ -1,3 +1,44 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "url": "https://wired.jp/article/ferrari-ev-luce-report/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/red-space-mutations-01/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/elon-musk-spacex-spending-gas-turbines-grok/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/sz-openai-codex-race-claude-code/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/ghost-in-the-shell-weirdcore-kalkul/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/made-in-china-why-shein-bought-everlane/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/taiyo-fujii-okubo-seven-2/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/trump-wants-to-be-the-hero-vapers-dont-really-need/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://wired.jp/article/sz-crypto-matters-sbi-visa-crypto-card/",
+      "processed_at": "2026-05-26T09:00:00Z"
+    }
+  ]
 }
