@@ -5,7 +5,18 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "WebFetch(domain:wired.jp)"
+      "WebFetch(domain:engineering.salesforce.com)",
+      "WebFetch(domain:www.snowflake.com)",
+      "WebFetch(domain:developers.googleblog.com)",
+      "WebFetch(domain:aws.amazon.com)",
+      "WebFetch(domain:engineering.fb.com)",
+      "WebFetch(domain:github.blog)",
+      "WebFetch(domain:developers.openai.com)",
+      "WebFetch(domain:openai.com)",
+      "WebFetch(domain:www.anthropic.com)",
+      "WebFetch(domain:slack.com)",
+      "WebFetch(domain:atlassianblog.wpengine.com)",
+      "WebFetch(domain:www.docker.com)"
     ]
   }
 }
