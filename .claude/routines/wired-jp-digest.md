@@ -54,13 +54,16 @@ Slackへの投稿は `curl` コマンドを使い、`SLACK_WEBHOOK_URL` 環境�
 `seen_articles.json` は最新200件のみ保持し、古いものは削除する。
 
 ### 7. 変更をコミット・プッシュ
+新しいブランチは作成しない。現在のブランチ（main）に直接コミットしてプッシュする。
+
 ```bash
 git add data/seen_articles.json
 git commit -m "chore: update seen articles - {today}"
-git push -u origin HEAD
+git push origin HEAD:main
 ```
 
 ## 注意事項
+- 新しいブランチを作成したり、PR を作成したりしない。必ず main ブランチに直接プッシュすること
 - `SLACK_WEBHOOK_URL` 環境変数が未設定でも処理は続行する（コンソール出力にフォールバック）
 - ネットワークエラーが発生した場合はリトライせず、エラー内容をログ出力して終了する
 - 記事の要約は正確さを重視し、センセーショナルな表現を避ける
