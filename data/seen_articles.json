@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "url": "https://engineering.salesforce.com/how-agentforce-conversation-client-accelerated-accessibility-remediation-by-5x-using-ai-driven-workflows/",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/optimize-snowflake-ai-systems-cocoevolve/",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-business-innovation-series-west-japan-02-20260529/",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/modernize-vb6-applications-at-scale-with-aws-transform-custom/",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-and-others-invest-12-5m-to-defend-the-open-source-ecosystem-from-ai-threats/",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/how-ai-is-changing-developer-workflows",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/bitbucket/agentic-pipelines-now-supports-claude-code",
+      "processed_at": "2026-06-03T09:00:00Z"
+    },
+    {
       "url": "https://engineering.salesforce.com/agentforces-agentscript-building-deterministic-control-for-enterprise-ai-workflows/",
       "processed_at": "2026-06-01T20:16:22Z"
     },
