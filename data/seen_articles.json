@@ -479,6 +479,22 @@
     {
       "url": "https://www.docker.com/blog/what-is-software-supply-chain-security/",
       "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/security-posture-improvement-in-the-ai-era/",
+      "processed_at": "2026-06-05T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
+      "processed_at": "2026-06-05T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+      "processed_at": "2026-06-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/what-is-ai-governance/",
+      "processed_at": "2026-06-05T09:00:00Z"
     }
   ]
 }
