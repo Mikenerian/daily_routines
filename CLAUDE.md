@@ -31,6 +31,12 @@ www.anthropic.com
 slack.com
 atlassianblog.wpengine.com
 www.docker.com
+connpass.com
+events.nikkei.co.jp
+aisi.go.jp
+www.digital.go.jp
+peatix.com
+xsum.jp
 ```
 
 ## Routines 一覧
@@ -57,14 +63,37 @@ www.docker.com
 
 **状態管理:** `data/seen_articles.json` に処理済み記事URLを保持する（最新200件）。
 
+### `ai-events-digest` — AI政策・戦略系イベント自動収集
+
+**スケジュール:** 毎週月曜 09:00 (UTC)
+
+**概要:** 日本のAI政策・企業AI戦略・コンサルティング領域のイベントを定期収集し、参加価値の高いものをフィルタリングしてSlackに投稿する。
+
+**収集対象テーマ:**
+- AI政策・規制・ガバナンス
+- 企業のAI戦略・経営レイヤーの意思決定
+- AIエージェント・生成AIの社会実装
+- DX推進・データ戦略
+
+**収集元:**
+- connpass（キーワード：「AI政策」「生成AI 戦略」「AIガバナンス」）
+- 日経イベント (events.nikkei.co.jp)
+- AISI（AI安全研究所）(aisi.go.jp/activity)
+- デジタル庁 (www.digital.go.jp/news)
+- Peatix（キーワード：「AI 政策」「AI カンファレンス」）
+- xSUM（GenAI/SUM）(xsum.jp)
+
+**フィルタリング基準:** リアル開催・懇親会ありを最優先。純粋な技術ハンズオンや特定製品のセールスウェビナーは除外。
+
 ## ディレクトリ構成
 
 ```
 .claude/
   routines/
-    news-digest.md       # ルーティン定義
-  settings.json          # 権限設定
+    news-digest.md         # ルーティン定義（エンジニアブログダイジェスト）
+    ai-events-digest.md    # ルーティン定義（AIイベント収集）
+  settings.json            # 権限設定
 data/
-  seen_articles.json     # 処理済み記事URL（自動更新）
-CLAUDE.md                # このファイル
+  seen_articles.json       # 処理済み記事URL（自動更新）
+CLAUDE.md                  # このファイル
 ```

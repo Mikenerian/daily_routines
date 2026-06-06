@@ -16,7 +16,14 @@
       "WebFetch(domain:www.anthropic.com)",
       "WebFetch(domain:slack.com)",
       "WebFetch(domain:atlassianblog.wpengine.com)",
-      "WebFetch(domain:www.docker.com)"
+      "WebFetch(domain:www.docker.com)",
+      "WebFetch(domain:connpass.com)",
+      "WebFetch(domain:events.nikkei.co.jp)",
+      "WebFetch(domain:aisi.go.jp)",
+      "WebFetch(domain:www.digital.go.jp)",
+      "WebFetch(domain:peatix.com)",
+      "WebFetch(domain:xsum.jp)",
+      "WebSearch(*)"
     ]
   }
 }
