@@ -495,6 +495,30 @@
     {
       "url": "https://www.docker.com/blog/what-is-ai-governance/",
       "processed_at": "2026-06-05T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/scaling-zero-copy-from-1-trillion-to-120-trillion-rows-with-file-federation/",
+      "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
+      "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
+      "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260601/",
+      "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/teaching-ai-to-speak-our-design-language",
+      "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/software-supply-chain-security-best-practices/",
+      "processed_at": "2026-06-08T09:00:00Z"
     }
   ]
 }
