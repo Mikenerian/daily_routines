@@ -439,6 +439,46 @@
     {
       "url": "https://www.docker.com/blog/how-to-secure-ai-agents/",
       "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-engineering-360-unified-operations-at-scale-and-reached-80-adoption/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/announcing-durability-for-amazon-elasticache/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202606/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/ransomware-security-seminar-may-2026/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/how-to-identify-ai-superusers",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/how-we-build/how-content-assistant-raised-the-design-quality-bar-without-slowing-us-down",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/development/ai-agents-jira-engineering-maintenance",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/what-are-hardened-images/",
+      "processed_at": "2026-06-04T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/what-is-software-supply-chain-security/",
+      "processed_at": "2026-06-04T09:00:00Z"
     }
   ]
 }
