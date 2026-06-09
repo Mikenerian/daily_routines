@@ -519,6 +519,22 @@
     {
       "url": "https://www.docker.com/blog/software-supply-chain-security-best-practices/",
       "processed_at": "2026-06-08T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-to-build-reliable-ai-agents-5-engineering-patterns-from-a-production-system/",
+      "processed_at": "2026-06-09T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-rrcg-overview/",
+      "processed_at": "2026-06-09T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
+      "processed_at": "2026-06-09T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-rtb-fabric-dsp-ssp-network-expansion/",
+      "processed_at": "2026-06-09T09:00:00Z"
     }
   ]
 }
