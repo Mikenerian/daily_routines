@@ -375,6 +375,42 @@
     {
       "url": "https://aws.amazon.com/jp/blogs/news/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/",
       "processed_at": "2026-05-30T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/hybrid-deep-research-benchmark/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/arcticswarm-hybrid-deep-research/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/arcticswarm-multi-agent-system-architecture/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-database-sessions/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/joint-ai-dlc-unicorn-gym-osaka-202605/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends/",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/enhancing-search-with-natural-language-and-filters",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/jira-service-management/how-atlassian-uses-ai-alert-grouping",
+      "processed_at": "2026-06-02T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/how-to-secure-ai-agents/",
+      "processed_at": "2026-06-02T09:00:00Z"
     }
   ]
 }
