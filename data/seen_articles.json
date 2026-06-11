@@ -551,6 +551,30 @@
     {
       "url": "https://aws.amazon.com/jp/blogs/news/aws-rtb-fabric-dsp-ssp-network-expansion/",
       "processed_at": "2026-06-09T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/local_executive_roadshow_3/",
+      "processed_at": "2026-06-11T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/daiichi-sankyo-qsimulate-qm-fep-drug-discovery/",
+      "processed_at": "2026-06-11T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-mfg-future-of-production-line/",
+      "processed_at": "2026-06-11T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/new-research-shows-honesty-about-ai-use-at-work-is-backfiring",
+      "processed_at": "2026-06-11T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/jira-service-management/how-24-hour-fitness-transformed-it-operations",
+      "processed_at": "2026-06-11T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/",
+      "processed_at": "2026-06-11T09:00:00Z"
     }
   ]
 }
