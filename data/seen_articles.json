@@ -619,6 +619,30 @@
     {
       "url": "https://www.atlassian.com/blog/company-news/forrester-strategic-portfolio-management-2026",
       "processed_at": "2026-06-13T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-data-360-segmentation-processes-a-quadrillion-records-across-arbitrary-customer-data-models/",
+      "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/",
+      "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/jpmne-bb-nab-show-2026-recap/",
+      "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/kiro-merch-store/",
+      "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/jira-service-management/how-ace-hardware-transformed-itsm",
+      "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/",
+      "processed_at": "2026-06-16T09:00:00Z"
     }
   ]
 }
