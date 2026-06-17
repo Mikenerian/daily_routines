@@ -643,6 +643,30 @@
     {
       "url": "https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/",
       "processed_at": "2026-06-16T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/maintaining-code-quality-at-agent-speed-7-patterns-for-agentic-engineering/",
+      "processed_at": "2026-06-17T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/the-agent-coding-maturity-curve-9-stages-from-code-generation-to-trusted-automation/",
+      "processed_at": "2026-06-17T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/security-gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced/",
+      "processed_at": "2026-06-17T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "processed_at": "2026-06-17T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "processed_at": "2026-06-17T09:00:00Z"
+    },
+    {
+      "url": "https://slack.com/resources/why-use-slack/how-slack-expedites-the-software-development-lifecycle",
+      "processed_at": "2026-06-17T09:00:00Z"
     }
   ]
 }
