@@ -695,6 +695,26 @@
     {
       "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage/",
       "processed_at": "2026-06-18T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition/",
+      "processed_at": "2026-06-20T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/konicaminolta-boostcamp/",
+      "processed_at": "2026-06-20T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit2026-aws-iot-robot-tele-operation/",
+      "processed_at": "2026-06-20T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/videos/atlassians-hr-team-leads-ai-transformation",
+      "processed_at": "2026-06-20T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/knowledge-architect-role",
+      "processed_at": "2026-06-20T09:00:00Z"
     }
   ]
 }
