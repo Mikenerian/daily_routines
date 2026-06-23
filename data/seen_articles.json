@@ -39,6 +39,114 @@
     {
       "url": "https://wired.jp/article/sz-crypto-matters-sbi-visa-crypto-card/",
       "processed_at": "2026-05-26T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-agentforce-prevents-language-drift-in-600k-daily-multilingual-ai-workflows/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/maintaining-code-quality-at-agent-speed-7-patterns-for-agentic-engineering/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/the-agent-coding-maturity-curve-9-stages-from-code-generation-to-trusted-automation/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/optimize-snowflake-ai-systems-cocoevolve/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/hybrid-deep-research-benchmark/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/arcticswarm-hybrid-deep-research/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/introducing-smart-store-manager-agent-for-retail-tech/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/analyzing-claude-code-usage-with-cloudwatch-and-opentelemetry/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/engineers-netflix-pagerduty-slack",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/how-apps-for-slack-help-ibm-and-hearst-get-more-from-their-tech-stack",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://slack.com/blog/collaboration/skyscanner-engineers-find-answers-faster",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/your-jira-board-just-got-a-new-kind-of-teammate",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/gartner-devsecops-2026",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/claude-agent-for-jira",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/what-is-an-sbom/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/",
+      "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/",
+      "processed_at": "2026-06-23T09:00:00Z"
     }
   ]
 }
