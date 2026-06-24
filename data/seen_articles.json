@@ -663,6 +663,22 @@
     {
       "url": "https://www.docker.com/blog/what-is-an-sbom/",
       "processed_at": "2026-06-23T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-physical-ai-spatial-computing/",
+      "processed_at": "2026-06-24T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-mfg-productengineering/",
+      "processed_at": "2026-06-24T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/mixi-fctokyo-photo-selection-aurora-dsql/",
+      "processed_at": "2026-06-24T09:00:00Z"
+    },
+    {
+      "url": "https://developers.openai.com/blog/mastering-codex-remote-for-engineering",
+      "processed_at": "2026-06-24T09:00:00Z"
     }
   ]
 }
