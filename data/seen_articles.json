@@ -679,6 +679,26 @@
     {
       "url": "https://developers.openai.com/blog/mastering-codex-remote-for-engineering",
       "processed_at": "2026-06-24T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "processed_at": "2026-06-25T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/ai-%E3%81%8C%E7%B5%8C%E5%96%B6%E3%81%99%E3%82%8B%E3%81%8A%E5%BA%97%E3%81%A7%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BC%9F-aws-summit-japan-2026-builders/",
+      "processed_at": "2026-06-25T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/how-we-build/hr-in-the-age-of-abundant-intelligence",
+      "processed_at": "2026-06-25T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/videos/turning-ai-into-infrastructure-with-atlassians-head-of-ai",
+      "processed_at": "2026-06-25T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/eu-cyber-resilience-act-overview/",
+      "processed_at": "2026-06-25T09:00:00Z"
     }
   ]
 }
