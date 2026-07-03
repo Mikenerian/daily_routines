@@ -699,6 +699,58 @@
     {
       "url": "https://www.docker.com/blog/eu-cyber-resilience-act-overview/",
       "processed_at": "2026-06-25T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-ai-learned-to-investigate-mobile-build-failures-like-an-experienced-support-engineer/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.salesforce.com/inside-unified-planner-the-ai-brain-behind-agentforce/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/arctic-rl-open-source-backend/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-april/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/inside-rovo-mcp-usage",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/why-ai-agents-need-isolation/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/eu-ai-act-compliance/",
+      "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://www.docker.com/blog/sbom-generation-for-container-workflows/",
+      "processed_at": "2026-07-03T09:00:00Z"
     }
   ]
 }
