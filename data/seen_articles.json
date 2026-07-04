@@ -751,6 +751,10 @@
     {
       "url": "https://www.docker.com/blog/sbom-generation-for-container-workflows/",
       "processed_at": "2026-07-03T09:00:00Z"
+    },
+    {
+      "url": "https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products",
+      "processed_at": "2026-07-04T20:11:02Z"
     }
   ]
 }
