@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/",
-      "processed_at": "2026-06-15T09:00:00Z"
-    },
-    {
-      "url": "https://www.atlassian.com/blog/ai-at-work/ai-adoption-through-trust-rachel-shepard",
-      "processed_at": "2026-06-15T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/introducing-the-aws-credits-detail-page/",
-      "processed_at": "2026-06-15T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260608/",
-      "processed_at": "2026-06-15T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260608/",
-      "processed_at": "2026-06-15T09:00:00Z"
-    },
-    {
-      "url": "https://engineering.salesforce.com/how-mulesoft-is-raising-the-trust-bar-for-ai-generated-code/",
-      "processed_at": "2026-06-12T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/geniac-cycle4-kick-off/",
-      "processed_at": "2026-06-12T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/migrating-data-from-oracle-to-amazon-aurora-dsql/",
-      "processed_at": "2026-06-12T09:00:00Z"
-    },
-    {
-      "url": "https://aws.amazon.com/jp/blogs/news/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
-      "processed_at": "2026-06-12T09:00:00Z"
-    },
-    {
       "url": "https://aws.amazon.com/jp/blogs/news/aws-finops-agent-is-now-public-preview/",
       "processed_at": "2026-06-10T09:00:00Z"
     },
@@ -755,6 +719,86 @@
     {
       "url": "https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products",
       "processed_at": "2026-07-04T20:11:02Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/building-ai-agents-with-google-gemini-3-and-open-source-frameworks/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/5-things-to-try-with-gemini-3-pro-in-gemini-cli/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://developers.googleblog.com/ja/introducing-code-wiki-accelerating-your-code-understanding/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/search-solution-for-1b-vectors-built-on-lancedb/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/rakus-ai-agent-development-and-evaluations/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-summit-2026-japan-cre-booth-realestate/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://developers.openai.com/blog/skills-agents-sdk",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://developers.openai.com/blog/run-long-horizon-tasks-with-codex",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/how-we-build/atlassian-dropbox-ai-transformation",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/ai-made-your-people-faster-but-its-your-office-thats-slowing-them-down",
+      "processed_at": "2026-07-05T09:00:00Z"
+    },
+    {
+      "url": "https://www.atlassian.com/blog/ai-at-work/atlassians-guidelines-for-writing-with-ai",
+      "processed_at": "2026-07-05T09:00:00Z"
     }
   ]
 }
