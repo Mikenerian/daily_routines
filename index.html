@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>生活ログ同期 — Google HealthのデータをNotionに記録する個人用ツール</title>
+<style>
+  :root {
+    --ink: #1c1f26;
+    --muted: #5c6472;
+    --rule: #d8dce3;
+    --paper: #fbfbf9;
+    --link: #1f5c8b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", system-ui, sans-serif;
+    font-size: 17px;
+    line-height: 1.85;
+  }
+  main {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 5rem;
+  }
+  h1 {
+    font-size: 1.75rem;
+    line-height: 1.4;
+    margin: 0 0 .5rem;
+    font-weight: 700;
+  }
+  .lede {
+    color: var(--muted);
+    margin: 0 0 3rem;
+  }
+  h2 {
+    font-size: 1.1rem;
+    margin: 2.75rem 0 .75rem;
+    padding-top: 1.75rem;
+    border-top: 1px solid var(--rule);
+    font-weight: 700;
+  }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: .4rem; }
+  a { color: var(--link); }
+  a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  .policy-link {
+    margin-top: 2.5rem;
+    padding: 1.1rem 1.25rem;
+    border: 1px solid var(--rule);
+    background: #fff;
+  }
+  .policy-link p { margin: 0; }
+  footer {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: .9rem;
+  }
+  .en {
+    margin-top: 3rem;
+    color: var(--muted);
+    font-size: .95rem;
+  }
+  .en h2 { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+
+  <h1>生活ログ同期</h1>
+  <p class="lede">Google Health に記録された自分の運動データを読み取り、自分のNotionに保存する個人用のツールです。作者本人だけが使います。</p>
+
+  <h2>このツールがすること</h2>
+  <p>週に1回自動で実行され、Google Health API から前の週のデータを読み取って、作者本人のNotionワークスペースにある記録用データベースに書き込みます。書き込まれた記録は、運動量や生活リズムを週単位で振り返るために使います。</p>
+
+  <h2>読み取るデータ</h2>
+  <ul>
+    <li>運動セッション（種目、開始時刻、運動時間、距離、平均心拍数、消費カロリー）</li>
+    <li>1日ごとの歩数</li>
+    <li>1日ごとの安静時心拍数</li>
+  </ul>
+  <p>読み取りは上記の範囲に限られます。Google Health のデータを変更したり削除したりすることはありません。</p>
+
+  <h2>データの保存先</h2>
+  <p>読み取ったデータは、作者本人のNotionワークスペース内にある非公開のデータベースにのみ保存されます。第三者に提供、販売、広告利用することはありません。</p>
+
+  <div class="policy-link">
+    <p>データの取り扱いの詳細は <a href="privacy.html">プライバシーポリシー</a> をご覧ください。</p>
+  </div>
+
+  <div class="en">
+    <h2>About this app (English)</h2>
+    <p>Seikatsu Log Sync is a personal, single-user tool. Once a week it reads the author's own workout sessions, daily step counts, and daily resting heart rate from the Google Health API, and writes them into a private Notion database owned by the author. The data is used solely for the author's personal weekly review. It is never sold, shared with third parties, or used for advertising. See the <a href="privacy.html">privacy policy</a> for details.</p>
+  </div>
+
+  <footer>
+    <p>連絡先: <a href="mailto:ogakuzunyanko@gmail.com">ogakuzunyanko@gmail.com</a></p>
+  </footer>
+
+</main>
+</body>
+</html>

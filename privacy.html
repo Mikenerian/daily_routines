@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>プライバシーポリシー — 生活ログ同期</title>
+<style>
+  :root {
+    --ink: #1c1f26;
+    --muted: #5c6472;
+    --rule: #d8dce3;
+    --paper: #fbfbf9;
+    --link: #1f5c8b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", system-ui, sans-serif;
+    font-size: 17px;
+    line-height: 1.85;
+  }
+  main {
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 5rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin: 0 0 .25rem;
+    font-weight: 700;
+  }
+  .updated {
+    color: var(--muted);
+    font-size: .9rem;
+    margin: 0 0 3rem;
+  }
+  h2 {
+    font-size: 1.05rem;
+    margin: 2.5rem 0 .75rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    font-weight: 700;
+  }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: .4rem; }
+  a { color: var(--link); }
+  a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  footer {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: .9rem;
+  }
+  .en {
+    margin-top: 3rem;
+    color: var(--muted);
+    font-size: .95rem;
+  }
+  .en h2 { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+
+  <h1>プライバシーポリシー</h1>
+  <p class="updated">生活ログ同期 ／ 最終更新日: 2026年9月15日</p>
+
+  <p>「生活ログ同期」（以下、本ツール）は、作者本人のみが利用する個人用のツールです。本ポリシーは、本ツールがGoogleユーザーデータをどのように取得し、利用し、保存し、共有するかを説明します。</p>
+
+  <h2>1. 取得するデータ</h2>
+  <p>本ツールは Google Health API を通じて、利用者本人が許可した範囲で次のデータを読み取ります。</p>
+  <ul>
+    <li><strong>運動とフィットネス</strong>（googlehealth.activity_and_fitness.readonly）— 運動セッションの種目、開始時刻、運動時間、距離、消費カロリー、および1日ごとの歩数</li>
+    <li><strong>健康指標</strong>（googlehealth.health_metrics_and_measurements.readonly）— 1日ごとの安静時心拍数、および運動セッション中の平均心拍数</li>
+  </ul>
+  <p>いずれも読み取り専用です。本ツールがGoogle上のデータを作成、変更、削除することはありません。上記以外のGoogleユーザーデータ（メール、連絡先、位置情報、カレンダー等）は取得しません。</p>
+
+  <h2>2. データの利用目的</h2>
+  <p>取得したデータは、利用者本人が自身の運動量や生活リズムを週単位で振り返るためにのみ利用します。他の目的には利用しません。</p>
+
+  <h2>3. データの保存</h2>
+  <p>取得したデータは、利用者本人が所有するNotionワークスペース内の非公開データベースに保存されます。本ツールの作者は、これ以外の場所にデータを保存するサーバーやデータベースを運用していません。認証に用いるトークンは、実行環境（Google Apps Script）の非公開のプロパティ領域にのみ保管されます。</p>
+
+  <h2>4. データの共有</h2>
+  <p>取得したデータを第三者に販売、譲渡、開示することはありません。広告目的での利用、および利用者の信用力の判断や与信目的での利用も行いません。人間による閲覧は、利用者本人による閲覧を除き行いません。</p>
+
+  <h2>5. Google API サービスのユーザーデータに関するポリシー</h2>
+  <p>本ツールによる Google API から受け取った情報の利用と他者への移転は、<a href="https://developers.google.com/terms/api-services-user-data-policy" rel="noopener">Google API サービスのユーザーデータに関するポリシー</a>（Limited Use の要件を含む）に準拠します。</p>
+
+  <h2>6. データ保持と削除</h2>
+  <p>利用者は、<a href="https://myaccount.google.com/permissions" rel="noopener">Googleアカウントの権限設定</a>からいつでも本ツールのアクセス権を取り消すことができます。取り消した時点で、本ツールは新たなデータの取得を停止します。すでにNotionに保存された記録は利用者本人が所有しており、Notion上で直接削除できます。</p>
+
+  <h2>7. 本ポリシーの変更</h2>
+  <p>本ポリシーを変更した場合は、このページを更新し、最終更新日を改めます。</p>
+
+  <h2>8. お問い合わせ</h2>
+  <p>本ポリシーに関するお問い合わせは <a href="mailto:ogakuzunyanko@gmail.com">ogakuzunyanko@gmail.com</a> までご連絡ください。</p>
+
+  <div class="en">
+    <h2>Privacy policy (English summary)</h2>
+    <p>Seikatsu Log Sync is a personal, single-user tool. Through the Google Health API it reads only the authorizing user's own workout sessions, daily step counts, and daily resting heart rate, using read-only scopes. It never creates, modifies, or deletes data in Google Health. The retrieved data is written solely to a private Notion database owned by that same user, and OAuth tokens are held only in the private script properties of the execution environment. The data is never sold, transferred to third parties, used for advertising, or used for creditworthiness or lending purposes, and is not read by any human other than the user. The use and transfer of information received from Google APIs adheres to the <a href="https://developers.google.com/terms/api-services-user-data-policy" rel="noopener">Google API Services User Data Policy</a>, including the Limited Use requirements. Access can be revoked at any time at <a href="https://myaccount.google.com/permissions" rel="noopener">myaccount.google.com/permissions</a>.</p>
+  </div>
+
+  <footer>
+    <p><a href="index.html">生活ログ同期 について</a></p>
+  </footer>
+
+</main>
+</body>
+</html>
